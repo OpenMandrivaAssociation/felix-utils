@@ -1,9 +1,9 @@
-%_javapackages_macros
+%{?_javapackages_macros:%_javapackages_macros}
 %global bundle org.apache.felix.utils
 
 Name:             felix-utils
 Version:          1.2.0
-Release:          3.0%{?dist}
+Release:          3.1%{?dist}
 Summary:          Utility classes for OSGi
 License:          ASL 2.0
 
