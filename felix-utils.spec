@@ -3,7 +3,7 @@
 
 Name:             felix-utils
 Version:          1.2.0
-Release:          3.1%{?dist}
+Release:          3.2
 Summary:          Utility classes for OSGi
 License:          ASL 2.0
 
