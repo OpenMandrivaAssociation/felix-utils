@@ -17,6 +17,7 @@ BuildRequires:    maven-local
 BuildRequires:    jpackage-utils
 BuildRequires:    felix-osgi-compendium
 BuildRequires:    felix-osgi-core
+BuildRequires:    mvn(org.apache.felix:felix-parent:pom:)
 BuildRequires:    maven-surefire-provider-junit4
 BuildRequires:    mockito
 
