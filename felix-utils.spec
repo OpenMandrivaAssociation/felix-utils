@@ -7,7 +7,7 @@ Release:          3.3
 Summary:          Utility classes for OSGi
 License:          ASL 2.0
 
-URL:              http://felix.apache.org
+URL:              https://felix.apache.org
 Source0:          http://archive.apache.org/dist/felix/%{bundle}-%{version}-source-release.tar.gz
 
 BuildArch:        noarch
