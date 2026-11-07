@@ -1,2 +1,5 @@
 sources:
+  org.apache.felix.utils-1.11.10-sources.jar: 4084108335a0ce962b17ebb8b319b289a75833c3
+  felix-utils-repository-1.1.patch: ce5b8ab38032d5b60589f08f75aa47a21d9d0615
+removed_sources:
   org.apache.felix.utils-1.2.0-source-release.tar.gz: f5484a09f663ea2fb1c171c1f210e9cc629ebb53
